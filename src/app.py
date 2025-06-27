@@ -24,7 +24,7 @@ def write_real_data(data, prediction):
 
     Args:
         data (dict): dicionário de dados com todos os atributos.
-        prediction (int): valor de predição
+        prediction (int): valor de predição.
     """
 
     now = datetime.now()
