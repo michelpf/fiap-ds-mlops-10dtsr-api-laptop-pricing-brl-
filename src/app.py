@@ -83,8 +83,8 @@ def input_metrics(data, prediction):
 
 def prepare_payload(data):
     """
-    Função para padronizar o payload de entrada de modo a 
-    ser compatível com a execução do modelo.
+    Função para padronizar o payload de entrada de modo
+    a ser compatível com a execução do modelo.
 
     Args:
         data (dict): dicionário de dados com todos os atributos.
